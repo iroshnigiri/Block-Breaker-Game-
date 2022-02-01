@@ -1,0 +1,2 @@
+# Block-Breaker-Game-
+Developed an interactive 2D breakout game using swing controls and other basic concepts of Java and used MySQL to store information of users. In this there is one paddle, one ball and 30 bricks. There's an image for a ball, brick and paddle in Inkspace. A timer is used to create game cycle. Angle is not taken into account, simply directions aree changed: top, bottom, left and right. 
